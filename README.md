@@ -8,11 +8,6 @@ This extension is a great tool for listing auto products on websites like eBay o
 - Save time and effort.
 - Compatible with websites like eBay or Amazon
 
-## Installation
-1. Download the extension from the Chrome Web Store.
-2. Click on the Add to Chrome button.
-3. Follow the instructions to install the extension.
-
 ## Usage
 1. Go to a website like eBay or Amazon.
 2. Select the year of the model you want to list.
