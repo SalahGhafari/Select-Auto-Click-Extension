@@ -1,6 +1,6 @@
 # LICENSE
 
-Copyright (c) [2023], Salah Ghafari
+Copyright (c) 2023, Salah Ghafari
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software for non-commercial and non-harmful purposes only, provided that the following conditions are met:
 
