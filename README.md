@@ -19,7 +19,7 @@ This extension is a great tool for listing auto products on websites like eBay o
 3. Use the extension's function to auto-click the model you want.
 
 ## Support
-If you have any issues or need help using the extension, please contact me at [YOUR EMAIL ADDRESS HERE].
+If you have any issues or need help using the extension, please contact me at salah.ghafari@gmail.com.
 
 ## License
 This extension is licensed under the "MIT License" license. See the LICENSE.md file for more information.
